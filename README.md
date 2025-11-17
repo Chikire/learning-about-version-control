@@ -1,2 +1,2 @@
-Learning About Version Control
+# Learning About Version Control
 Author: Chikire Aku-Ibe
